@@ -1,4 +1,4 @@
-<img src="https://github.com/doloresjoya/puni/blob/master/img/puni_logo.png" align="center" width="250px" />
+<img src="https://github.com/katebennet/puni/blob/master/img/puni_logo.png" align="center" width="250px" />
 
 _MUNI Stinks...Rate your ride!_
 
